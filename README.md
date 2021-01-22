@@ -1,13 +1,12 @@
 ### Hi, I'm Towb <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Tobias%20Rauer-VueJS%20Dev-green)](https://google.com)
+[![Website](https://img.shields.io/badge/Tobias%20Rauer-JS%20Dev-yellow)](https://google.com)
 
 ## Your short description
 - 🔭 I’m currently working on my new personal portfolio with VueJS 
 - 🌱 I’m currently learning JS
-- 👯 I’m looking to collaborate with someone on any Vue project ideas that we may come up with :)
+- 👯 I’m looking to collaborate with someone on any VueJS project ideas that we may come up with.
 - 💬 Ask me anything @twitter ;)
-- 🥅 2021 Goal: 
-- ⚡ Fun fact - ❔❔❔❔
+- 🥅 2021 Goal: Build awesome websites, apps and components! :)
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
