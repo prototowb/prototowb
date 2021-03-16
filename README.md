@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning JS
 - 👯 I’m looking to collaborate with someone on any VueJS project ideas that we may come up with.
 - 💬 Ask me anything @twitter ;)
-- 🥅 2021 Goal: Build awesome websites, apps and components! :)
+- 🥅 2021 Goal: Build awesome websites, apps and components with vue/nuxt, etc.! And maybe learn my Discord bot some new tricks :)
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
