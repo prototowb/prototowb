@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my new personal portfolio with VueJS 
 - 🌱 I’m currently learning JS
-- 👯 I’m looking to collaborate with someone on any VueJS project ideas that we may come up with.
+- 👯 I’m looking to collaborate with someone on any VueJS/...(NodeJS) project ideas that we may come up with.
 - 💬 Ask me anything @twitter ;)
 - 🥅 2021 Goal: Build awesome websites, apps and components with vue/nuxt, etc.! And maybe learn my Discord bot some new tricks :)
 
