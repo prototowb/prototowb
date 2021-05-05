@@ -14,7 +14,7 @@
 ## Connect with me:
 [<img align="left" alt="prototowb" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="prototowb | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="prototowb | LinkedIn" width="22px" fill="green" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="prototowb | LinkedIn" width="22px" style="color: green;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
 <!-- This section you create this variables that are used above -->
