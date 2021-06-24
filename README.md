@@ -4,9 +4,8 @@
   |x|currently . . .|
   |---|---|
   |🔭|I’m working on my new personal portfolio with VueJS|
-  |🌱|I’m continuing learning JS of course|
-  |👯|I'm also teaching what I know in the protocode community here and on Discord|
-  |💬|You can ask me anything @twitter :)|
+  |👯|I'm teaching what I know, in the protocode community here and on Discord|
+  |💬|You can ask me anything @twitter or ofc join the community :)|
   |🥅|My 2021 Goal is: finishing my blog theme, continue building awesome websites, components & apps and improve along the way, and learn my Discord bot some new tricks|
 ## Connect with me:
 [<img align="left" alt="prototowb" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
