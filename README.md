@@ -3,11 +3,11 @@
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [![Website](https://img.shields.io/badge/Tobias%20Rauer-JS%20Dev-yellow)](https://google.com)
   |x|currently . . .|
   |---|---|
-  |🔭|I’m currently working on my new personal portfolio with VueJS|
-  |🌱|I’m currently learning JS|
-  |👯|I’m looking to collaborate with someone on any VueJS/...(NodeJS) project ideas that we may come up with|
-  |💬|Ask me anything @twitter :)|
-  |🥅|2021 Goal: Build awesome websites, apps and components and maybe learn my Discord bot some new tricks|
+  |🔭|I’m working on my new personal portfolio with VueJS|
+  |🌱|I’m continuing learning JS of course|
+  |👯|I'm also teaching what I know in the @protocode-community here and on Discord|
+  |💬|You can ask me anything @twitter :)|
+  |🥅|My 2021 Goal is: finishing my blog theme, continue building awesome websites, components & apps and improve along the way, and learn my Discord bot some new tricks|
 ## Connect with me:
 [<img align="left" alt="prototowb" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="prototowb | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
