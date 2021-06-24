@@ -5,7 +5,7 @@
   |---|---|
   |🔭|I’m working on my new personal portfolio with VueJS|
   |🌱|I’m continuing learning JS of course|
-  |👯|I'm also teaching what I know in the @protocode-community here and on Discord|
+  |👯|I'm also teaching what I know in the protocode community here and on Discord|
   |💬|You can ask me anything @twitter :)|
   |🥅|My 2021 Goal is: finishing my blog theme, continue building awesome websites, components & apps and improve along the way, and learn my Discord bot some new tricks|
 ## Connect with me:
