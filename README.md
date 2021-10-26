@@ -1,4 +1,4 @@
-[![prototowb's github stats](https://github-readme-stats.vercel.app/api?username=prototowb&count_private=true&include_all_commits=true&theme=synthwave)](https://google.com)
+[![prototowb's github stats](https://github-readme-stats.vercel.app/api?username=prototowb&count_private=true&include_all_commits=true&theme=highcontrast)](https://google.com)
 
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [![Website](https://img.shields.io/badge/Tobias%20Rauer-JS%20Dev-yellow)](https://google.com)
   |x|currently . . .|
