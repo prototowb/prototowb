@@ -6,7 +6,7 @@
   |📰|I'm finishing my blog theme|
   |🔭|I’m working on my new personal portfolio with VueJS|
   |📚|I'm teaching what I know, in the protocode community here and on Discord|
-  |🥅|My 2021 Goal is: Continue building awesome websites, components & apps and improve along the way, and learn my Discord bot some new tricks|
+  |🥅|My 2021 Goal is: Building more awesome components, websites & apps, improve along the way and learn my Discord bot some new tricks|
   |💬|You can ask me anything @twitter|
 
 [![prototowb's github stats](https://github-readme-stats.vercel.app/api?username=prototowb&count_private=true&include_all_commits=true&theme=cobalt)](https://google.com)
