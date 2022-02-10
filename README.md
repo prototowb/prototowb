@@ -6,7 +6,7 @@
   |📰|I'm finishing my blog theme|
   |🔭|I’m working on my new personal portfolio with VueJS|
   |📚|I'm teaching what I know|
-  |🥅|My 2021 Goal is: Build more awesome Stuff, improve along the way and learn my Discord bot some new tricks|
+  |🥅|My 2022 Goal is: Build more awesome Apps, improve along the way and learn my Discord bot some new tricks|
   |💬|You can ask me anything @twitter|
 
 [![prototowb's github stats](https://github-readme-stats.vercel.app/api?username=prototowb&count_private=true&include_all_commits=true&theme=cobalt)](https://google.com)
