@@ -3,11 +3,11 @@
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [![Website](https://img.shields.io/badge/Tobias%20Rauer-JS%20Dev-yellow)](https://google.com)
   |x|currently . . .|
   |---|---|
-  |📰|I'm finishing my blog theme|
-  |🔭|I’m working on my new personal portfolio with VueJS/Nuxt|
-  |📚|I love to share my knowledge, and am working on building a FE community|
-  |🥅|My 2022 Goal is: Build more awesome Apps, improve along the way and learn my Discord bot some new tricks|
-  |💬|You can ask me anything @twitter|
+  |📰| thinking about a new stack for my blog |
+  |🔭| Always open to discuss anything JS, Vue, or Rust |
+  |📚| I love to share my knowledge, and I am working on building a FE community |
+  |🥅| 2022 Goal: Build more awesome Apps, and learn protocode's Discord bot some new tricks |
+  |💬| You can ask me anything @twitter |
 
 [![prototowb's github stats](https://github-readme-stats.vercel.app/api?username=prototowb&count_private=true&include_all_commits=true&theme=cobalt)](https://google.com)
 
