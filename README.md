@@ -4,7 +4,7 @@
   |x|currently . . .|
   |---|---|
   |📰|I'm finishing my blog theme|
-  |🔭|I’m working on my new personal portfolio with VueJS|
+  |🔭|I’m working on my new personal portfolio with VueJS/Nuxt|
   |📚|I'm teaching what I know|
   |🥅|My 2022 Goal is: Build more awesome Apps, improve along the way and learn my Discord bot some new tricks|
   |💬|You can ask me anything @twitter|
