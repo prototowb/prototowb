@@ -16,11 +16,12 @@ I am a software engineer with a passion for Cyber Security and a passion for sha
 
 **What I'm up to?**
 <img align="right" alt="GIF" src="https://github.com/prototowb/prototowb/blob/main/sir-cat-laptop.gif" width="256" height="320" />
+
 **I'm currently . . .**
 <p>📰| thinking about a new stack for my blog</p>
 <p>🔭| Always open to discuss anything JS, Vue, Docker or Rust</p>
 <p>📚| I love to share my knowledge, and I am working on building a FE Devs community</p>
-<p>🥅| 2022 Goal: Build more awesome Sites and Apps, and learn protocode's Discord bot some new tricks t 3tertert erttert erter</p>
+<p>🥅| 2022 Goal: Build more awesome Sites and Apps, and learn protocode's Discord bot some new tricks</p>
 <p>💬| constantly improving on my learn-flow :)</p>
 
 <br>
