@@ -7,7 +7,7 @@ I'm a Frontend software engineer with a passion for sharing my findings and what
 
 ### ![](https://visitor-badge.glitch.me/badge?page_id=prototowb.prototowb) Happy to meet you!
 
-### Connect with me:
+### Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
 [![Twitter Badge](https://img.shields.io/twitter/follow/prototowb?label=Follow&style=social)][twitter]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)][instagram]
