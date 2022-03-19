@@ -21,10 +21,10 @@ I am a software engineer with a passion for Cyber Security and a passion for sha
   |x|currently . . .|
   |---|---|
   |📰| thinking about a new stack for my blog |
-  |🔭| Always open to discuss anything JS, Vue, or Rust |
-  |📚| I love to share my knowledge, and I am working on building a FE community |
-  |🥅| 2022 Goal: Build more awesome Apps, and learn protocode's Discord bot some new tricks |
-  |💬| You can ask me anything @twitter |
+  |🔭| Always open to discuss anything JS, Vue, Docker or Rust |
+  |📚| I love to share my knowledge, and I am working on building a FE Devs community |
+  |🥅| 2022 Goal: Build more awesome Sites and Apps, and learn protocode's Discord bot some new tricks |
+  |💬| constantly improving on my learn-flow :) |
 
 ### My GitHub stats
 [![prototowb's github stats](https://github-readme-stats.vercel.app/api?username=prototowb&count_private=true&include_all_commits=true&theme=cobalt)](https://google.com)
