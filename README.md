@@ -26,9 +26,11 @@ I am a software engineer with a passion for Cyber Security and a passion for sha
   |🥅| 2022 Goal: Build more awesome Apps, and learn protocode's Discord bot some new tricks |
   |💬| You can ask me anything @twitter |
 
+### My GitHub stats
 [![prototowb's github stats](https://github-readme-stats.vercel.app/api?username=prototowb&count_private=true&include_all_commits=true&theme=cobalt)](https://google.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### My most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prototowb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
