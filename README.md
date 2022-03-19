@@ -1,10 +1,11 @@
 
 
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [![Website](https://img.shields.io/badge/Tobias%20Rauer-JS%20Dev-yellow)]
-## Connect with me:
+
+### Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
-[![Twitter Badge]](https://img.shields.io/twitter/follow/prototowb?label=Follow&style=social)][twitter]
+[![Twitter Badge](https://img.shields.io/twitter/follow/prototowb?label=Follow&style=social)][twitter]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)][instagram]
 [![Discord Badge](https://img.shields.io/badge/Discord-Join!-6a0dad)][discord]
 [![TikTok Badge](https://img.shields.io/badge/TikTok-Follow-blue)][tiktok]
@@ -32,9 +33,8 @@ I am a software engineer with a passion for Cyber Security and a passion for sha
 
 
 <!-- variables that are used above -->
-[website]: https://#.de
 [linkedin]: https://www.linkedin.com/in/tobias-rauer/
-[twitter]: https://twitter.com/prototowb
+[twitter]: https://twitter.com/prototowb/
 [instagram]: https://www.instagram.com/protocode_/
 [discord]: https://discord.gg/XB3KCDwgzk
 [tiktok]: https://www.tiktok.com/@protocode_
