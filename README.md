@@ -14,7 +14,7 @@
 
 I am a software engineer with a passion for Cyber Security and a passion for sharing my findings and what I've learned on my journeys so far!
 
-<img align="right" alt="GIF" src="https://github.com/prototowb/prototowb/sir-cat-laptop.gif" width="170" height="213" />
+<img align="right" alt="GIF" src="https://github.com/prototowb/prototowb/blob/main/sir-cat-laptop.gif" width="170" height="213" />
 
 **What I'm up to?**
 
@@ -26,9 +26,9 @@ I am a software engineer with a passion for Cyber Security and a passion for sha
   |🥅| 2022 Goal: Build more awesome Apps, and learn protocode's Discord bot some new tricks |
   |💬| You can ask me anything @twitter |
 
-<div align="left">[![prototowb's github stats](https://github-readme-stats.vercel.app/api?username=prototowb&count_private=true&include_all_commits=true&theme=cobalt)](https://google.com)</div>
+[![prototowb's github stats](https://github-readme-stats.vercel.app/api?username=prototowb&count_private=true&include_all_commits=true&theme=cobalt)](https://google.com)
 
-<div align="right">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
