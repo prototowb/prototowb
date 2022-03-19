@@ -1,11 +1,11 @@
 
 
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> I'm &nbsp; ![Website](https://img.shields.io/badge/Tobias%20Rauer-JS%20Dev-yellow)
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> I'm ![Website](https://img.shields.io/badge/Tobias%20Rauer-JS%20Dev-yellow)
 I'm a Frontend software engineer with a passion for sharing my findings and what I've learned on my journeys so far, cyber security, and cats!
 
 <img align="right" alt="GIF" src="https://github.com/prototowb/prototowb/blob/main/sir-cat-laptop.gif" width="256" height="320" />
 
-### ![](https://visitor-badge.glitch.me/badge?page_id=prototowb.prototowb) &nbsp; Happy to meet you!
+### ![](https://visitor-badge.glitch.me/badge?page_id=prototowb.prototowb) Happy to meet you!
 
 ### Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
