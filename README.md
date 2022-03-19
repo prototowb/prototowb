@@ -18,19 +18,17 @@ I am a software engineer with a passion for Cyber Security and a passion for sha
 
 <img align="right" alt="GIF" src="https://github.com/prototowb/prototowb/blob/main/sir-cat-laptop.gif" width="256" height="320" />
 
-  <p>I'm currently . . .</p>
-
-  <p>📰| thinking about a new stack for my blog</p>
-
-  🔭| Always open to discuss anything JS, Vue, Docker or Rust
+<p>I'm currently . . .</p>
+<p>📰| thinking about a new stack for my blog</p>
+<p>🔭| Always open to discuss anything JS, Vue, Docker or Rust</p>
 
   📚| I love to share my knowledge, and I am working on building a FE Devs community
 
-  🥅| 2022 Goal: Build more awesome Sites and Apps, and learn protocode's Discord bot some new tricks
+  🥅| 2022 Goal: Build more awesome Sites and Apps, and learn protocode's Discord bot some new tricks t 3tertert erttert erter
 
   💬| constantly improving on my learn-flow :) 
 
-
+<br>
 
 ### My GitHub stats
 [![prototowb's github stats](https://github-readme-stats.vercel.app/api?username=prototowb&count_private=true&include_all_commits=true&theme=cobalt)](https://google.com)
