@@ -5,6 +5,7 @@
 ### Happy to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=prototowb.prototowb)
 I am a software engineer with a passion for Cyber Security and a passion for sharing my findings and what I've learned on my journeys so far!
 
+<img align="right" alt="GIF" src="https://github.com/prototowb/prototowb/blob/main/sir-cat-laptop.gif" width="256" height="320" />
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
 [![Twitter Badge](https://img.shields.io/twitter/follow/prototowb?label=Follow&style=social)][twitter]
@@ -12,7 +13,6 @@ I am a software engineer with a passion for Cyber Security and a passion for sha
 [![Discord Badge](https://img.shields.io/badge/Discord-Join!-6a0dad)][discord]
 [![TikTok Badge](https://img.shields.io/badge/TikTok-Follow-blue)][tiktok]
 
-<img align="right" alt="GIF" src="https://github.com/prototowb/prototowb/blob/main/sir-cat-laptop.gif" width="256" height="320" />
 <br>
 
 **What I'm up to? I'm currently . . .**
