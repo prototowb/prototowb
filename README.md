@@ -1,6 +1,22 @@
 
 
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [![Website](https://img.shields.io/badge/Tobias%20Rauer-JS%20Dev-yellow)](https://google.com)
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [![Website](https://img.shields.io/badge/Tobias%20Rauer-JS%20Dev-yellow)]
+## Connect with me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
+[![Twitter Badge]](https://img.shields.io/twitter/follow/prototowb?label=Follow&style=social)][twitter]
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)][instagram]
+[![Discord Badge](https://img.shields.io/badge/Discord-Join!-6a0dad)][discord]
+[![TikTok Badge](https://img.shields.io/badge/TikTok-Follow-blue)][tiktok]
+
+### Happy to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=prototowb.prototowb)
+
+I am a software engineer with a passion for Cyber Security and a passion for sharing my findings and what I've learned on my journeys so far!
+
+<img align="right" alt="GIF" src="https://github.com/prototowb/prototowb/sir-cat-laptop.gif" width="512" height="640" />
+
+**What I'm up to?**
+
   |x|currently . . .|
   |---|---|
   |📰| thinking about a new stack for my blog |
@@ -9,19 +25,16 @@
   |🥅| 2022 Goal: Build more awesome Apps, and learn protocode's Discord bot some new tricks |
   |💬| You can ask me anything @twitter |
 
-[![prototowb's github stats](https://github-readme-stats.vercel.app/api?username=prototowb&count_private=true&include_all_commits=true&theme=cobalt)](https://google.com)
+<div align="left"> [![prototowb's github stats](https://github-readme-stats.vercel.app/api?username=prototowb&count_private=true&include_all_commits=true&theme=cobalt)](https://google.com)</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Connect with me:
-[<img align="left" alt="prototowb" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="prototowb | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="prototowb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
 
 
 
 <!-- variables that are used above -->
 [website]: https://#.de
-[twitter]: https://twitter.com/prototowb
 [linkedin]: https://www.linkedin.com/in/tobias-rauer/
+[twitter]: https://twitter.com/prototowb
+[instagram]: https://www.instagram.com/protocode_/
+[discord]: https://discord.gg/XB3KCDwgzk
+[tiktok]: https://www.tiktok.com/@protocode_
