@@ -7,14 +7,14 @@ I am a software engineer with a passion for Cyber Security and a passion for sha
 
 <img align="right" alt="GIF" src="https://github.com/prototowb/prototowb/blob/main/sir-cat-laptop.gif" width="256" height="320" />
 
-### Connect with me:
+#### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
 [![Twitter Badge](https://img.shields.io/twitter/follow/prototowb?label=Follow&style=social)][twitter]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)][instagram]
 [![Discord Badge](https://img.shields.io/badge/Discord-Join!-6a0dad)][discord]
 [![TikTok Badge](https://img.shields.io/badge/TikTok-Follow-blue)][tiktok]
 
-### What I'm up to? I'm currently . . .
+##### What I'm up to? I'm currently . . .
 - thinking about a new stack for my blog
 - Always open to discuss anything JS, Vue, Docker or Rust
 - I love to share my knowledge, and I am working on building a FE Devs community
