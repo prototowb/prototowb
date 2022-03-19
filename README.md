@@ -1,6 +1,6 @@
 
 
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [![Website](https://img.shields.io/badge/Tobias%20Rauer-JS%20Dev-yellow)]
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm ![Website](https://img.shields.io/badge/Tobias%20Rauer-JS%20Dev-yellow)
 
 ### Connect with me:
 
@@ -14,9 +14,9 @@
 
 I am a software engineer with a passion for Cyber Security and a passion for sharing my findings and what I've learned on my journeys so far!
 
-<img align="right" alt="GIF" src="https://github.com/prototowb/prototowb/blob/main/sir-cat-laptop.gif" width="170" height="213" />
-
 **What I'm up to?**
+
+<img align="right" alt="GIF" src="https://github.com/prototowb/prototowb/blob/main/sir-cat-laptop.gif" width="256" height="320" />
 
   |x|currently . . .|
   |---|---|
