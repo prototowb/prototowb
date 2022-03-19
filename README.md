@@ -5,7 +5,7 @@ I'm a Frontend software engineer with a passion for sharing my findings and what
 
 <img align="right" alt="GIF" src="https://github.com/prototowb/prototowb/blob/main/sir-cat-laptop.gif" width="256" height="320" />
 
-### ![](https://visitor-badge.glitch.me/badge?page_id=prototowb.prototowb) Happy to meet you!
+### ![d](https://visitor-badge.glitch.me/badge?page_id=prototowb.prototowb) Happy to meet you!
 
 ### Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
