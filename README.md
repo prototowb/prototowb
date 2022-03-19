@@ -6,6 +6,7 @@
 I am a software engineer with a passion for Cyber Security and a passion for sharing my findings and what I've learned on my journeys so far!
 
 <img align="right" alt="GIF" src="https://github.com/prototowb/prototowb/blob/main/sir-cat-laptop.gif" width="256" height="320" />
+
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
 [![Twitter Badge](https://img.shields.io/twitter/follow/prototowb?label=Follow&style=social)][twitter]
@@ -16,11 +17,11 @@ I am a software engineer with a passion for Cyber Security and a passion for sha
 <br>
 
 **What I'm up to? I'm currently . . .**
-<p>📰| thinking about a new stack for my blog</p>
-<p>🔭| Always open to discuss anything JS, Vue, Docker or Rust</p>
-<p>📚| I love to share my knowledge, and I am working on building a FE Devs community</p>
-<p>🥅| 2022 Goal: Build more awesome Sites and Apps, and learn protocode's Discord bot some new tricks</p>
-<p>💬| constantly improving on my learn-flow :)</p>
+- 📰| thinking about a new stack for my blog
+- 🔭| Always open to discuss anything JS, Vue, Docker or Rust
+- 📚| I love to share my knowledge, and I am working on building a FE Devs community
+- 🥅| 2022 Goal: Build more awesome Sites and Apps, and learn protocode's Discord bot some new tricks
+- 💬| constantly improving on my learn-flow :)
 
 <!-- ### My GitHub stats
 [![prototowb's github stats](https://github-readme-stats.vercel.app/api?username=prototowb&count_private=true&include_all_commits=true&theme=cobalt)](https://google.com)
