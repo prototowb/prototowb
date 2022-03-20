@@ -12,14 +12,15 @@ I'm a Frontend software engineer with a passion for sharing my findings and what
 [![Twitter Badge](https://img.shields.io/twitter/follow/prototowb?label=Follow&style=social)][twitter]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)][instagram]
 [![Discord Badge](https://img.shields.io/badge/Discord-Join!-6a0dad)][discord]
+[![YouTube Badge](https://img.shields.io/youtube/channel/views/UCG_MpEt7okBlH1KtIK1TQTQ?style=social)][youtube]
 [![TikTok Badge](https://img.shields.io/badge/TikTok-Follow-blue)][tiktok]
 
 #### What I'm up to? I'm currently . . .
 - thinking about a new stack for my blog
-- Always open to discuss anything JS, Vue, Docker or Rust
-- I love to share my knowledge, and I am working on building a FE Devs community
-- 2022 Goal: Build more awesome Sites and Apps, and learn protocode's Discord bot some new tricks
-- constantly improving on my learn-flow :)
+- working on building a FE Devs community - join our Discord if you're interested
+- Building more awesome Sites and Apps, and learn protocode's Discord bot some new tricks
+- improving on my learning techniques and productive workflows
+- open to discuss anything JS, Vue, Docker or Rust
 
 <!-- ### My GitHub stats
 [![prototowb's github stats](https://github-readme-stats.vercel.app/api?username=prototowb&count_private=true&include_all_commits=true&theme=cobalt)](https://google.com)
@@ -36,4 +37,5 @@ I'm a Frontend software engineer with a passion for sharing my findings and what
 [twitter]: https://twitter.com/prototowb/
 [instagram]: https://www.instagram.com/protocode_/
 [discord]: https://discord.gg/XB3KCDwgzk
+[youtube]: https://www.youtube.com/channel/UCG_MpEt7okBlH1KtIK1TQTQ
 [tiktok]: https://www.tiktok.com/@protocode_
