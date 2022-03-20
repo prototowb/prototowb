@@ -10,9 +10,9 @@ I'm a Frontend software engineer with a passion for sharing my findings and what
 ### Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
 [![Twitter Badge](https://img.shields.io/twitter/follow/prototowb?label=Follow&style=social)][twitter]
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)][instagram]
-[![Discord Badge](https://img.shields.io/badge/Discord-Join!-6a0dad)][discord]
 [![YouTube Badge](https://img.shields.io/youtube/channel/views/UCG_MpEt7okBlH1KtIK1TQTQ?style=social)][youtube]
+[![Discord Badge](https://img.shields.io/badge/Discord-Join!-6a0dad)][discord]
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)][instagram]
 [![TikTok Badge](https://img.shields.io/badge/TikTok-Follow-blue)][tiktok]
 
 #### What I'm up to? I'm currently . . .
