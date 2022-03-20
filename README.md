@@ -1,7 +1,7 @@
 
 
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> I'm ![Website](https://img.shields.io/badge/Tobias%20Rauer-JS%20Dev-yellow)
-I'm a Frontend software engineer with a passion for sharing my findings and what I've learned on my journeys so far, cyber security, and cats!
+I'm a Frontend software engineer with a passion for sharing my findings, what I've learned on my journeys so far, cyber security, and cats!
 
 <img align="right" alt="GIF" src="https://github.com/prototowb/prototowb/blob/main/sir-cat-laptop.gif" width="256" height="320" />
 
@@ -12,8 +12,8 @@ I'm a Frontend software engineer with a passion for sharing my findings and what
 [![Twitter Badge](https://img.shields.io/twitter/follow/prototowb?label=Follow&style=social)][twitter]
 [![YouTube Badge](https://img.shields.io/youtube/channel/views/UCG_MpEt7okBlH1KtIK1TQTQ?style=social)][youtube]
 [![Discord Badge](https://img.shields.io/badge/Discord-Join!-6a0dad)][discord]
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)][instagram]
 [![TikTok Badge](https://img.shields.io/badge/TikTok-Follow-blue)][tiktok]
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)][instagram]
 
 #### What I'm up to? I'm currently . . .
 - thinking about a new stack for my blog
