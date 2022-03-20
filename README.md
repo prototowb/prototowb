@@ -17,7 +17,7 @@ I'm a Frontend software engineer with a passion for cyber security, sharing my f
 
 #### What I'm up to? I'm currently . . .
 - thinking about a new stack for my blog
-- working on building a FE Devs community - join our Discord if you're interested
+- working on building a FE Devs community - join our Discord¿
 - Building more awesome sites and apps, and learn protocode's Discord bot some new tricks
 - improving on my learning techniques and productivity workflows
 - open to discuss anything JS, Vue, Docker or Rust
