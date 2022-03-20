@@ -18,7 +18,7 @@ I'm a Frontend software engineer with a passion for sharing my findings and what
 #### What I'm up to? I'm currently . . .
 - thinking about a new stack for my blog
 - working on building a FE Devs community - join our Discord if you're interested
-- Building more awesome Sites and Apps, and learn protocode's Discord bot some new tricks
+- Building more awesome sites and apps, and learn protocode's Discord bot some new tricks
 - improving on my learning techniques and productive workflows
 - open to discuss anything JS, Vue, Docker or Rust
 
