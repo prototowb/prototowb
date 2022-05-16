@@ -16,7 +16,7 @@ I'm a Frontend software engineer with a passion for cyber security, sharing my f
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)][instagram]
 
 #### What I'm up to? I'm currently . . .
-- thinking about a new stack for my blog
+- re-building my blog with Astro + Vue + (Sanity)
 - working on building a FE Devs community - join our Discord¿
 - Building more awesome sites and apps, and learn protocode's Discord bot some new tricks
 - improving on my learning techniques and productivity workflows
