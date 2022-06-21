@@ -3,7 +3,7 @@
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> I'm ![Website](https://img.shields.io/badge/Tobias%20Rauer-JS%20Dev-yellow)
 I'm a Frontend software engineer with a passion for cyber security, sharing findings and what I've learned on my journeys so far, and cats! well, at least the ones online. *not looking at anyone* - because I don't have a cat. But I certainly would now, if I had one. òo
 
-<img align="right" alt="GIF" src="https://github.com/prototowb/prototowb/blob/main/sir-cat-laptop.gif" width="25" height="25" />
+<img align="right" alt="GIF" src="https://github.com/prototowb/prototowb/blob/main/sir-cat-laptop.gif" width="256" height="320" />
 
 ### ![](https://visitor-badge.glitch.me/badge?page_id=prototowb.prototowb) Happy to meet you!
 
