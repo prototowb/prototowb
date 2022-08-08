@@ -20,7 +20,7 @@ I'm a Frontend software engineer with a passion for information security, sharin
 - working on building a FE Devs community - join our Discord¿
 - Building more awesome sites and apps, and learn protocode's Discord bot some new tricks
 - improving on my learning techniques and productivity workflows
-- open to discuss anything JS, Vue, Docker or Rust
+- open to discuss anything JS, Vue, Astro, Docker or Rust
 
 <!-- ### My GitHub stats
 [![prototowb's github stats](https://github-readme-stats.vercel.app/api?username=prototowb&count_private=true&include_all_commits=true&theme=cobalt)](https://google.com)
