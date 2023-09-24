@@ -12,7 +12,6 @@ I'm a Frontend software engineer with a passion for information security, sharin
 [![Twitter Badge](https://img.shields.io/twitter/follow/prototowb?label=Follow&style=social)][twitter]
 [![YouTube Badge](https://img.shields.io/youtube/channel/views/UCG_MpEt7okBlH1KtIK1TQTQ?style=social)][youtube]
 [![Discord Badge](https://img.shields.io/badge/Discord-Join!-6a0dad)][discord]
-[![TikTok Badge](https://img.shields.io/badge/TikTok-Follow-blue)][tiktok]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)][instagram]
 
 #### I'm currently . . .
