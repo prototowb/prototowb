@@ -5,7 +5,7 @@
 <!-- cat image placeholder <img align="right" alt="GIF" src="https://github.com/prototowb/prototowb/blob/main/sir-cat-laptop.gif" width="256" height="320" /> -->
 
 ### 🚀 I'm currently:
-- Re-engineering the blogging cosmos with a blend of Astro, Vue and Tailwind - watch this space evolve!
+- Re-engineering my blogging cosmos with a blend of Astro, Vue and Tailwind - watch this space evolve!
 - Cultivating a vibrant community of Front-End Devs. Got ideas or enthusiasm? Join our Discord and let's shape the future of FE together!
 - Crafting extraordinary sites and apps, while teaching new tricks to my Discord bot
 - Sharpening my learning techniques and productivity workflows, aiming for that sweet spot of efficiency and effectiveness
