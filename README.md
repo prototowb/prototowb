@@ -10,7 +10,7 @@
 - Crafting extraordinary sites and apps, while teaching new tricks to my Discord bot
 - Sharpening my learning techniques and productivity workflows, aiming for that sweet spot of efficiency and effectiveness
 
-🛠️ My Toolbox: A robust blend of JavaScript, Vue, SCSS, Tailwind, Node, Python and Rust. With these tools, I sculpt ideas into reality, bridging the gap between dreams and bytes.
+🛠️ My Toolbox: A robust blend of JavaScript, Vue, SCSS, Tailwind, Node, Python and Rust.
 
 💡 Let's talk JavaScript, Vue, Astro, Docker, Rust, Python or ethical hacking and penetration testing. Whether it's a challenge you're facing, an idea you're nurturing, or just a curiosity about these technologies, I'm all ears and ready to dive into vibrant discussions.
 
